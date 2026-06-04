@@ -1,0 +1,107 @@
+[
+  {
+    "id": "single-card",
+    "nameZh": "单牌",
+    "nameEn": "Single Card",
+    "cardCount": 1,
+    "category": "general",
+    "description": "快速的每日洞见或针对一个问题的解答。非常适合需要即时指引时使用。",
+    "icon": "/reading/spread-icons/single-card.png",
+    "positions": [
+      { "index": 1, "nameZh": "核心指引", "nameEn": "Core Guidance", "meaning": "代表你当前状况的核心能量与指引" }
+    ]
+  },
+  {
+    "id": "yes-no",
+    "nameZh": "是非牌",
+    "nameEn": "Yes or No",
+    "cardCount": 1,
+    "category": "general",
+    "description": "针对是非问题的单牌抽取。当你需要做出选择时，获得一个明确的答案。",
+    "icon": "/reading/spread-icons/yes-no.png",
+    "positions": [
+      { "index": 1, "nameZh": "答案", "nameEn": "Answer", "meaning": "正面牌倾向「是」，逆位牌倾向「否」，结合牌意综合判断" }
+    ]
+  },
+  {
+    "id": "past-present-future",
+    "nameZh": "过去 · 现在 · 未来",
+    "nameEn": "Past · Present · Future",
+    "cardCount": 3,
+    "category": "general",
+    "description": "经典牌阵。了解过去如何影响你的现在，并塑造你的未来。",
+    "icon": "/reading/spread-icons/three-card.png",
+    "positions": [
+      { "index": 1, "nameZh": "过去", "nameEn": "Past", "meaning": "过去经历对你当前状况的影响" },
+      { "index": 2, "nameZh": "现在", "nameEn": "Present", "meaning": "当前的核心问题与能量" },
+      { "index": 3, "nameZh": "未来", "nameEn": "Future", "meaning": "若维持当前趋势，未来的发展方向" }
+    ]
+  },
+  {
+    "id": "the-cross",
+    "nameZh": "十字牌阵",
+    "nameEn": "The Cross",
+    "cardCount": 5,
+    "category": "general",
+    "description": "深入了解你的处境、面临的挑战以及前进的道路。",
+    "icon": "/reading/spread-icons/five-card.png",
+    "positions": [
+      { "index": 1, "nameZh": "当前状况", "nameEn": "Present Situation", "meaning": "你现在所处的位置与核心问题" },
+      { "index": 2, "nameZh": "挑战", "nameEn": "Challenge", "meaning": "横在你面前的障碍或需要克服的困难" },
+      { "index": 3, "nameZh": "过去", "nameEn": "Past", "meaning": "影响当前局势的过去因素" },
+      { "index": 4, "nameZh": "未来", "nameEn": "Future", "meaning": "即将到来的能量与发展方向" },
+      { "index": 5, "nameZh": "结果", "nameEn": "Outcome", "meaning": "综合因素汇聚后的可能结果" }
+    ]
+  },
+  {
+    "id": "lovers-cross",
+    "nameZh": "恋人十字牌阵",
+    "nameEn": "Lovers Cross",
+    "cardCount": 5,
+    "category": "love",
+    "description": "专为感情问题设计的牌阵。深入了解你与伴侣之间的动态、彼此的连接，以及爱情的走向。",
+    "icon": "/reading/spread-icons/lovers-cross.png",
+    "positions": [
+      { "index": 1, "nameZh": "你的状态", "nameEn": "Your State", "meaning": "你在感情中的心态与状态" },
+      { "index": 2, "nameZh": "对方的状态", "nameEn": "Partner's State", "meaning": "对方在感情中的心态与状态" },
+      { "index": 3, "nameZh": "当前关系", "nameEn": "Current Relationship", "meaning": "两人当前的相处模式与连接" },
+      { "index": 4, "nameZh": "障碍", "nameEn": "Obstacle", "meaning": "关系中面临的挑战与阻碍" },
+      { "index": 5, "nameZh": "未来发展", "nameEn": "Future", "meaning": "这段关系的可能发展方向" }
+    ]
+  },
+  {
+    "id": "secret-crush",
+    "nameZh": "暗恋牌阵",
+    "nameEn": "Secret Crush",
+    "cardCount": 5,
+    "category": "love",
+    "description": "想了解心仪的人？探索对方的心意、是否应该追求，以及未来的可能性。",
+    "icon": "/reading/spread-icons/secret-crush.png",
+    "positions": [
+      { "index": 1, "nameZh": "对方的心意", "nameEn": "Their Feelings", "meaning": "对方对你的真实感受与想法" },
+      { "index": 2, "nameZh": "你们之间的连接", "nameEn": "Connection", "meaning": "两人之间的能量连接与默契" },
+      { "index": 3, "nameZh": "是否应该主动", "nameEn": "Should Pursue", "meaning": "采取行动的时机是否合适" },
+      { "index": 4, "nameZh": "潜在障碍", "nameEn": "Obstacles", "meaning": "可能阻碍发展的因素" },
+      { "index": 5, "nameZh": "可能的结果", "nameEn": "Possible Outcome", "meaning": "如果行动，关系可能的发展方向" }
+    ]
+  },
+  {
+    "id": "voice-of-heart",
+    "nameZh": "心之声",
+    "nameEn": "Voice of Heart",
+    "cardCount": 8,
+    "category": "love",
+    "description": "8张牌的感情牌阵。深入了解感情现状、彼此的内外在印象、双方心态期望，以及指引建议。",
+    "icon": "/reading/spread-icons/voice-of-heart.png",
+    "positions": [
+      { "index": 1, "nameZh": "感情现状", "nameEn": "Current State", "meaning": "你们感情关系的当前状态" },
+      { "index": 2, "nameZh": "你的外在印象", "nameEn": "Your Outer Image", "meaning": "你在对方眼中展现的形象" },
+      { "index": 3, "nameZh": "你的内在感受", "nameEn": "Your Inner Feelings", "meaning": "你内心对这段感情的真实感受" },
+      { "index": 4, "nameZh": "对方的外在印象", "nameEn": "Their Outer Image", "meaning": "对方在你眼中展现的形象" },
+      { "index": 5, "nameZh": "对方的内在感受", "nameEn": "Their Inner Feelings", "meaning": "对方内心对这段感情的真实感受" },
+      { "index": 6, "nameZh": "你的期望", "nameEn": "Your Expectations", "meaning": "你对这段关系的期待" },
+      { "index": 7, "nameZh": "对方的期望", "nameEn": "Their Expectations", "meaning": "对方对这段关系的期待" },
+      { "index": 8, "nameZh": "指引与建议", "nameEn": "Guidance", "meaning": "宇宙给你的方向与建议" }
+    ]
+  }
+]
